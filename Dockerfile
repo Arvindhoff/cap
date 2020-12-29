@@ -1,6 +1,7 @@
 FROM centos
 MAINTAINER arvind
-RUN yum install maven \
+RUN yum install -y openjdk-8-jdk \
+    yum install -y maven \
     mvn compile \
     mvn clean install
 COPY target/*.jar app.jar
