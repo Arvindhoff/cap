@@ -1,9 +1,10 @@
 de/hsm/persistent/ExpenseService.class
 de/hsm/controller/LoginController.class
 de/hsm/persistent/Participant.class
+de/hsm/config/ApplicationConfig.class
 de/hsm/controller/ExpenseController.class
-de/hsm/persistent/User.class
 de/hsm/persistent/LoginService.class
+de/hsm/persistent/User.class
 de/hsm/controller/ExpenseSummaryController.class
 de/hsm/controller/CustomErrorController.class
 de/hsm/persistent/SplitExpense.class
